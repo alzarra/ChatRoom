@@ -53,6 +53,7 @@ features:
 - the abilty to clear the input after sending the message but not the name.
 - status of the user, showing error (if one of the name or input are empty), showing if the message is send or not
 - error checking, if somthing went wrong the status will show what's going on
+- status return to idel after 3 seconds 
 
 helpful resources:
 youtube.com
